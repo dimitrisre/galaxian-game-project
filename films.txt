@@ -1,0 +1,9 @@
+8
+player_ship_film.bmp 6 player_ship_boxes.txt
+fire_film.bmp 2 fire_boxes.txt
+pink_ship_film.bmp 18 pink_ship_boxes.txt
+green_ship_film.bmp 18 green_ship_boxes.txt
+red_ship_film.bmp 18 red_ship_boxes.txt
+yellow_ship_film.bmp 25 yellow_ship_boxes.txt
+explotion_film.bmp 4 explotion_boxes.txt
+stars_film.bmp 3 stars_boxes.txt
